@@ -14,6 +14,128 @@ body {
   line-height: 1.75;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.product-hero {
+  position: relative;
+  min-height: min(82svh, 820px);
+  display: flex;
+  align-items: flex-end;
+  background: #0b1d26 url("assets/offline-hiking-map-hero.jpg") center 46% / cover no-repeat;
+  color: #fff;
+  overflow: hidden;
+}
+
+.product-hero-shade {
+  position: absolute;
+  inset: 0;
+  background: rgba(3, 16, 21, 0.52);
+}
+
+.product-hero-content {
+  position: relative;
+  z-index: 1;
+  width: min(1040px, calc(100% - 40px));
+  margin: 0 auto;
+  padding: 80px 0 72px;
+}
+
+.app-icon {
+  width: 88px;
+  height: 88px;
+  margin-bottom: 22px;
+  border-radius: 20px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.28);
+}
+
+.product-hero h1 {
+  max-width: 760px;
+  margin: 0;
+  font-size: clamp(2.4rem, 7vw, 5.4rem);
+  line-height: 1.06;
+}
+
+.product-hero p {
+  max-width: 660px;
+  margin: 20px 0 30px;
+  font-size: clamp(1.05rem, 2.5vw, 1.45rem);
+}
+
+.app-store-link {
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  padding: 0 20px;
+  border: 1px solid rgba(255, 255, 255, 0.78);
+  border-radius: 7px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.feature-band {
+  width: min(1040px, calc(100% - 40px));
+  margin: 0 auto;
+  padding: 76px 0;
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(280px, 0.65fr);
+  gap: clamp(36px, 8vw, 96px);
+  align-items: center;
+  border-bottom: 1px solid rgba(32, 35, 22, 0.14);
+}
+
+.feature-band-reverse .feature-copy {
+  order: 2;
+}
+
+.feature-band img {
+  width: min(100%, 410px);
+  max-height: 680px;
+  justify-self: center;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 8px;
+}
+
+.feature-copy h2 {
+  margin: 6px 0 18px;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+}
+
+.feature-copy p:not(.eyebrow) {
+  max-width: 600px;
+  margin: 0;
+  color: #454a36;
+  font-size: 1.08rem;
+}
+
+.eyebrow {
+  margin: 0;
+  color: #5f6922;
+  font-size: 0.78rem;
+  font-weight: 750;
+}
+
+.product-links {
+  width: min(1040px, calc(100% - 40px));
+  margin: 0 auto;
+  padding: 68px 0;
+}
+
+.product-links nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.product-footer {
+  padding: 24px 20px 40px;
+  color: #6a6f58;
+  text-align: center;
+}
+
 .page {
   width: min(860px, calc(100% - 32px));
   margin: 0 auto;
@@ -76,4 +198,28 @@ a {
   border-top: 1px solid rgba(95, 105, 49, 0.18);
   color: #6a6f58;
   font-size: 0.92rem;
+}
+
+@media (max-width: 720px) {
+  .product-hero {
+    min-height: 76svh;
+    background-position: 58% top;
+  }
+
+  .product-hero-content {
+    padding: 56px 0 48px;
+  }
+
+  .feature-band {
+    grid-template-columns: 1fr;
+    padding: 54px 0;
+  }
+
+  .feature-band-reverse .feature-copy {
+    order: 0;
+  }
+
+  .feature-band img {
+    width: min(100%, 360px);
+  }
 }
