@@ -1,21 +1,62 @@
 <!doctype html>
 <html lang="ja">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="日本の登山地図を必要な範囲だけ保存し、圏外でもGPS現在地と予定ルートを確認できるiPhone地図アプリです。">
-  <title>オフライン登山地図</title>
-  <link rel="stylesheet" type="text/css" href="styles.css">
+  <meta name="description" content="日本の登山地図を必要な範囲だけ保存し、圏外でもGPS現在地、予定ルート、日本百名山の同梱ルートを確認できるiPhone地図アプリです。">
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <meta name="theme-color" content="#0b1d26">
+  <meta name="apple-itunes-app" content="app-id=6778970928, app-argument=https://apps.apple.com/jp/app/id6778970928?ppid=e49ebf47-4ab9-4e89-a070-6b8aedd1c917">
+  <link rel="canonical" href="https://tenkarars.github.io/offline-japan-map-pages/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:site_name" content="オフライン登山地図">
+  <meta property="og:title" content="オフライン登山地図 - 圏外でもGPS現在地と予定ルートを確認">
+  <meta property="og:description" content="登山前に必要な地図を保存。圏外でも保存した地図、GPS現在地、予定ルートを確認できます。">
+  <meta property="og:url" content="https://tenkarars.github.io/offline-japan-map-pages/">
+  <meta property="og:image" content="https://tenkarars.github.io/offline-japan-map-pages/assets/offline-hiking-map-hero.jpg">
+  <title>オフライン登山地図 - 圏外でもGPS現在地と予定ルートを確認</title>
+  <link rel="stylesheet" href="styles.css?v=20260719-2">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MobileApplication",
+    "name": "オフライン登山地図",
+    "operatingSystem": "iOS",
+    "applicationCategory": "NavigationApplication",
+    "description": "日本の登山地図を必要な範囲だけ保存し、圏外でもGPS現在地と予定ルートを確認できるiPhoneアプリです。",
+    "image": "https://tenkarars.github.io/offline-japan-map-pages/assets/app-icon.png",
+    "url": "https://tenkarars.github.io/offline-japan-map-pages/",
+    "downloadUrl": "https://apps.apple.com/jp/app/id6778970928",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "JPY"
+    }
+  }
+  </script>
 </head>
 <body>
+  <header class="product-nav">
+    <a class="product-brand" href="./" aria-label="オフライン登山地図 トップ">
+      <img src="assets/app-icon.png" alt="">
+      <span>オフライン登山地図</span>
+    </a>
+    <nav aria-label="主な機能">
+      <a href="offline-hiking-map/">地図保存</a>
+      <a href="hyakumeizan-routes/">百名山ルート</a>
+      <a href="rain-cloud-map/">雨雲の動き</a>
+    </nav>
+  </header>
+
   <main>
     <section class="product-hero" aria-labelledby="product-title">
       <div class="product-hero-shade" aria-hidden="true"></div>
       <div class="product-hero-content">
         <img class="app-icon" src="assets/app-icon.png" alt="オフライン登山地図のアプリアイコン">
         <h1 id="product-title">オフライン登山地図</h1>
-        <p>必要な範囲を保存して、圏外でも現在地と予定ルートを確認。</p>
-        <a class="app-store-link" href="https://apps.apple.com/jp/app/id6778970928">App Storeで見る</a>
+        <p>必要な地図を保存して、圏外でもGPS現在地と予定ルートを確認。</p>
+        <a class="app-store-link" href="https://apps.apple.com/jp/app/id6778970928?ppid=e49ebf47-4ab9-4e89-a070-6b8aedd1c917">App Storeで見る</a>
       </div>
     </section>
 
@@ -24,26 +65,38 @@
         <p class="eyebrow">OFFLINE MAP</p>
         <h2 id="offline-title">山へ行く前に地図を保存</h2>
         <p>国土地理院の地図から必要な範囲を選び、端末に保存できます。通信が不安定な場所でも、保存した地図とGPS現在地を確認できます。</p>
+        <a class="text-link" href="offline-hiking-map/">圏外で使える機能を見る</a>
       </div>
-      <img src="assets/offline-hiking-map-hero.jpg" alt="保存した登山地図とGPS現在地を表示しているアプリ画面">
+      <img src="assets/offline-hiking-map-hero.jpg" alt="保存した登山地図とGPS現在地を表示しているアプリ画面" loading="lazy">
     </section>
 
     <section class="feature-band feature-band-reverse" aria-labelledby="route-title">
       <div class="feature-copy">
-        <p class="eyebrow">ROUTE PLANNING</p>
-        <h2 id="route-title">予定ルートと登山道を地図上で確認</h2>
-        <p>予定ルートの作成、チェックポイント、百名山カードの同梱ルートを地形図に重ねて確認できます。</p>
+        <p class="eyebrow">100 FAMOUS MOUNTAINS</p>
+        <h2 id="route-title">百名山カードからルートを選ぶ</h2>
+        <p>日本百名山の山カードから同梱ルートを選び、地形図と登山道に重ねて確認できます。自分の予定ルートやチェックポイントも地図上で管理できます。</p>
+        <a class="text-link" href="hyakumeizan-routes/">百名山ルートを見る</a>
       </div>
-      <img src="assets/planned-route-map.jpg" alt="予定ルートと登山道を重ねた登山地図">
+      <img src="assets/planned-route-map.jpg" alt="日本百名山の予定ルートと登山道を重ねた登山地図" loading="lazy">
     </section>
 
     <section class="feature-band" aria-labelledby="rain-title">
       <div class="feature-copy">
         <p class="eyebrow">RAIN CLOUDS</p>
-        <h2 id="rain-title">オンラインでは雨雲の動きも確認</h2>
-        <p>気象庁の雨雲の動きを地図に重ねます。雨雲表示はオンライン専用で、登山可否や安全を判定する機能ではありません。</p>
+        <h2 id="rain-title">雨雲の動きを地図に重ねる</h2>
+        <p>オンライン時は、気象庁の雨雲の動きを登山地図に重ねて確認できます。雨雲表示は登山可否や安全を判定する機能ではありません。</p>
+        <a class="text-link" href="rain-cloud-map/">雨雲表示の詳細を見る</a>
       </div>
-      <img src="assets/rain-cloud-map.jpg" alt="気象庁の雨雲の動きを地図に重ねたアプリ画面">
+      <img src="assets/rain-cloud-map.jpg" alt="気象庁の雨雲の動きを地図に重ねたアプリ画面" loading="lazy">
+    </section>
+
+    <section class="download-band" aria-labelledby="download-title">
+      <div>
+        <p class="eyebrow">APP STORE</p>
+        <h2 id="download-title">登山前の地図準備をiPhoneで</h2>
+        <p>保存した地図はオフラインで表示できます。雨雲の動きなど一部機能はオンライン専用です。</p>
+      </div>
+      <a class="app-store-link app-store-link-dark" href="https://apps.apple.com/jp/app/id6778970928?ppid=e49ebf47-4ab9-4e89-a070-6b8aedd1c917">App Storeで見る</a>
     </section>
 
     <section class="product-links" aria-labelledby="links-title">

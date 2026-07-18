@@ -8,7 +8,7 @@ html {
 
 body {
   margin: 0;
-  background: #f5f6f0;
+  background: #ffffff;
   color: #202316;
   font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
   line-height: 1.75;
@@ -17,6 +17,53 @@ body {
 img {
   display: block;
   max-width: 100%;
+}
+
+.product-nav {
+  position: relative;
+  z-index: 10;
+  width: min(1120px, calc(100% - 40px));
+  min-height: 72px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+}
+
+.product-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  color: #202316;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.product-brand img {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+}
+
+.product-nav nav,
+.product-footer nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 22px;
+}
+
+.product-nav nav a {
+  color: #3c4430;
+  font-size: 0.92rem;
+  text-decoration: none;
+}
+
+.product-nav nav a[aria-current="page"] {
+  color: #202316;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 6px;
 }
 
 .product-hero {
@@ -52,27 +99,36 @@ img {
 }
 
 .product-hero h1 {
-  max-width: 760px;
+  max-width: 900px;
   margin: 0;
-  font-size: clamp(2.4rem, 7vw, 5.4rem);
+  font-size: 4.7rem;
   line-height: 1.06;
+  word-break: keep-all;
 }
 
 .product-hero p {
   max-width: 660px;
   margin: 20px 0 30px;
-  font-size: clamp(1.05rem, 2.5vw, 1.45rem);
+  font-size: 1.35rem;
 }
 
 .app-store-link {
   display: inline-flex;
   min-height: 48px;
   align-items: center;
+  justify-content: center;
   padding: 0 20px;
   border: 1px solid rgba(255, 255, 255, 0.78);
   border-radius: 7px;
   color: #fff;
   text-decoration: none;
+}
+
+.app-store-link-dark {
+  flex: 0 0 auto;
+  border-color: #202316;
+  background: #202316;
+  color: #fff;
 }
 
 .feature-band {
@@ -101,7 +157,7 @@ img {
 
 .feature-copy h2 {
   margin: 6px 0 18px;
-  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-size: 2.6rem;
 }
 
 .feature-copy p:not(.eyebrow) {
@@ -111,11 +167,120 @@ img {
   font-size: 1.08rem;
 }
 
+.text-link {
+  display: inline-block;
+  margin-top: 22px;
+}
+
 .eyebrow {
   margin: 0;
   color: #5f6922;
   font-size: 0.78rem;
   font-weight: 750;
+}
+
+.eyebrow-light {
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.download-band {
+  width: min(1040px, calc(100% - 40px));
+  margin: 0 auto;
+  padding: 54px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 36px;
+  border-bottom: 1px solid rgba(32, 35, 22, 0.14);
+}
+
+.download-band h2 {
+  margin: 4px 0 10px;
+  font-size: 2.3rem;
+}
+
+.download-band p {
+  max-width: 660px;
+  margin: 0;
+  color: #454a36;
+}
+
+.feature-page-hero {
+  position: relative;
+  min-height: min(72svh, 720px);
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  background-color: #0b1d26;
+  background-position: center 42%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+
+.feature-page-hero-offline {
+  background-image: url("assets/offline-hiking-map-hero.jpg");
+}
+
+.feature-page-hero-route {
+  background-image: url("assets/planned-route-map.jpg");
+}
+
+.feature-page-hero-rain {
+  background-image: url("assets/rain-cloud-map.jpg");
+}
+
+.feature-page-shade {
+  position: absolute;
+  inset: 0;
+  background: rgba(3, 16, 21, 0.58);
+}
+
+.feature-page-hero-content {
+  position: relative;
+  z-index: 1;
+  width: min(1040px, calc(100% - 40px));
+  margin: 0 auto;
+  padding: 72px 0 64px;
+}
+
+.feature-page-hero h1 {
+  max-width: 820px;
+  margin: 8px 0 18px;
+  font-size: 4.1rem;
+  line-height: 1.12;
+}
+
+.feature-page-hero-content > p:not(.eyebrow) {
+  max-width: 720px;
+  margin: 0 0 28px;
+  font-size: 1.25rem;
+}
+
+.feature-article {
+  width: min(820px, calc(100% - 40px));
+  margin: 0 auto;
+  padding: 44px 0 68px;
+}
+
+.feature-article section {
+  padding: 22px 0;
+  border-bottom: 1px solid rgba(32, 35, 22, 0.12);
+}
+
+.feature-article h2 {
+  margin: 0 0 12px;
+  font-size: 1.9rem;
+}
+
+.feature-article p,
+.feature-list {
+  color: #454a36;
+  font-size: 1.05rem;
+}
+
+.feature-list {
+  padding-left: 1.4em;
 }
 
 .product-links {
@@ -134,6 +299,10 @@ img {
   padding: 24px 20px 40px;
   color: #6a6f58;
   text-align: center;
+}
+
+.product-footer nav {
+  justify-content: center;
 }
 
 .page {
@@ -201,6 +370,23 @@ a {
 }
 
 @media (max-width: 720px) {
+  .product-nav {
+    width: min(100% - 28px, 1120px);
+    min-height: 64px;
+  }
+
+  .product-brand span {
+    display: none;
+  }
+
+  .product-nav nav {
+    gap: 14px;
+  }
+
+  .product-nav nav a {
+    font-size: 0.82rem;
+  }
+
   .product-hero {
     min-height: 76svh;
     background-position: 58% top;
@@ -208,6 +394,14 @@ a {
 
   .product-hero-content {
     padding: 56px 0 48px;
+  }
+
+  .product-hero h1 {
+    font-size: 2.35rem;
+  }
+
+  .product-hero p {
+    font-size: 1.05rem;
   }
 
   .feature-band {
@@ -221,5 +415,39 @@ a {
 
   .feature-band img {
     width: min(100%, 360px);
+  }
+
+  .feature-copy h2,
+  .download-band h2 {
+    font-size: 1.85rem;
+  }
+
+  .download-band {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .app-store-link-dark {
+    width: 100%;
+  }
+
+  .feature-page-hero {
+    min-height: 68svh;
+  }
+
+  .feature-page-hero-content {
+    padding: 56px 0 48px;
+  }
+
+  .feature-page-hero h1 {
+    font-size: 2.45rem;
+  }
+
+  .feature-page-hero-content > p:not(.eyebrow) {
+    font-size: 1.05rem;
+  }
+
+  .feature-article h2 {
+    font-size: 1.55rem;
   }
 }

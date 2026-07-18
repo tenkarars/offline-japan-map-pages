@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tenkarars.github.io/offline-japan-map-pages/sitemap.xml
