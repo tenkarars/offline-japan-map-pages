@@ -1,0 +1,2459 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-12",
+  "items": [
+    {
+      "id": "rishiridake",
+      "name": "利尻岳",
+      "reading": "りしりだけ",
+      "aliases": [
+        "利尻富士",
+        "利尻火山"
+      ],
+      "jumpTargetName": "利尻山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 45.17865,
+      "longitude": 141.24192222222,
+      "prefectures": [
+        "北海道"
+      ],
+      "elevationM": 1721,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q2154758",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "rausudake",
+      "name": "羅臼岳",
+      "reading": "らうすだけ",
+      "aliases": [
+        "チャチャヌプリ",
+        "良牛岳"
+      ],
+      "jumpTargetName": "羅臼岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 44.075833333333,
+      "longitude": 145.1225,
+      "prefectures": [
+        "北海道"
+      ],
+      "elevationM": 1660,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q714555",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "syaridake",
+      "name": "斜里岳",
+      "reading": "しゃりだけ",
+      "aliases": [
+        "オホーツク富士",
+        "オンネヌプリ",
+        "斜里富士"
+      ],
+      "jumpTargetName": "斜里岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 43.765555555556,
+      "longitude": 144.71805555556,
+      "prefectures": [
+        "北海道"
+      ],
+      "elevationM": 1547,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q714564",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "akandake",
+      "name": "阿寒岳",
+      "reading": "あかんだけ",
+      "aliases": [
+        "めあかんだけ"
+      ],
+      "jumpTargetName": "雌阿寒岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 43.386111111111,
+      "longitude": 144.00888888889,
+      "prefectures": [
+        "北海道"
+      ],
+      "elevationM": 1499,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q472705",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "taisetsuzan",
+      "name": "大雪山",
+      "reading": "たいせつざん",
+      "aliases": [
+        "大雪山系",
+        "大雪火山群"
+      ],
+      "jumpTargetName": "旭岳",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+        "Daisetsuzan",
+        "Taisetsuzan",
+        "Asahidake",
+        "Asahi-dake"
+      ],
+      "latitude": 43.66388888888889,
+      "longitude": 142.85472222222222,
+      "prefectures": [
+        "北海道"
+      ],
+      "elevationM": 2291,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q2271725",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "tomraushi",
+      "name": "トムラウシ",
+      "reading": "とむらうし",
+      "aliases": [
+        "トムラウシ山",
+        "富良牛山"
+      ],
+      "jumpTargetName": "トムラウシ",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 43.52722222,
+      "longitude": 142.84861111,
+      "prefectures": [
+        "北海道"
+      ],
+      "elevationM": 2141,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3139453",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "tokachidake",
+      "name": "十勝岳",
+      "reading": "とかちだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "十勝岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 43.417827777778,
+      "longitude": 142.68621666667,
+      "prefectures": [
+        "北海道"
+      ],
+      "elevationM": 2077,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q2620173",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "poroshiridake",
+      "name": "幌尻岳",
+      "reading": "ぽろしりだけ",
+      "aliases": [
+        "ポロシリ",
+        "ポロシㇼ"
+      ],
+      "jumpTargetName": "幌尻岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 42.719444444444,
+      "longitude": 142.68277777778,
+      "prefectures": [
+        "北海道"
+      ],
+      "elevationM": 2052,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3091748",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "shiribeshiyama",
+      "name": "後方羊蹄山",
+      "reading": "しりべしやま",
+      "aliases": [
+        "羊蹄山",
+        "蝦夷富士",
+        "後志羊蹄山"
+      ],
+      "jumpTargetName": "羊蹄山",
+      "targetType": "summit",
+      "romanizedAliases": [
+        "Shiribeshiyama",
+        "Yoteizan",
+        "Mount Yotei"
+      ],
+      "latitude": 42.82666666666667,
+      "longitude": 140.8113888888889,
+      "prefectures": [
+        "北海道"
+      ],
+      "elevationM": 1898,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E7%BE%8A%E8%B9%84%E5%B1%B1",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "iwakisan",
+      "name": "岩木山",
+      "reading": "いわきさん",
+      "aliases": [
+        "奥富士",
+        "津軽富士",
+        "お岩木",
+        "お岩木様"
+      ],
+      "jumpTargetName": "岩木山",
+      "targetType": "summit",
+      "romanizedAliases": [
+        "Iwakisan",
+        "Mount Iwaki"
+      ],
+      "latitude": 40.65588888888889,
+      "longitude": 140.30308333333335,
+      "prefectures": [
+        "青森県"
+      ],
+      "elevationM": 1625,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%9C%A8%E5%B1%B1",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "hakkodasan",
+      "name": "八甲田山",
+      "reading": "はっこうださん",
+      "aliases": [
+        "はっこうださん",
+        "八甲田山火山群"
+      ],
+      "jumpTargetName": "大岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 40.65888888888889,
+      "longitude": 140.87722222222223,
+      "prefectures": [
+        "青森県"
+      ],
+      "elevationM": 1584,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3047571",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "hachimantai",
+      "name": "八幡平",
+      "reading": "はちまんたい",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "八幡平",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 39.957777777778,
+      "longitude": 140.85416666667,
+      "prefectures": [
+        "岩手県",
+        "秋田県"
+      ],
+      "elevationM": 1614,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3075593",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "iwatesan",
+      "name": "岩手山",
+      "reading": "いわてさん",
+      "aliases": [
+        "巌鷲山"
+      ],
+      "jumpTargetName": "岩手山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 39.8525,
+      "longitude": 141.00111111,
+      "prefectures": [
+        "岩手県"
+      ],
+      "elevationM": 2038,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q713836",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "hayachine",
+      "name": "早池峰",
+      "reading": "はやちね",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "早池峰山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 39.558333333333,
+      "longitude": 141.48888888889,
+      "prefectures": [
+        "岩手県"
+      ],
+      "elevationM": 1917,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695496",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "cyokaizan",
+      "name": "鳥海山",
+      "reading": "ちょうかいさん",
+      "aliases": [
+        "ちょうかいさん"
+      ],
+      "jumpTargetName": "鳥海山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 39.099166666667,
+      "longitude": 140.04888888889,
+      "prefectures": [
+        "秋田県",
+        "山形県"
+      ],
+      "elevationM": 2236,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q713826",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "gassan",
+      "name": "月山",
+      "reading": "がっさん",
+      "aliases": [
+        "犂牛山"
+      ],
+      "jumpTargetName": "月山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 38.548888888889,
+      "longitude": 140.02694444444,
+      "prefectures": [
+        "山形県"
+      ],
+      "elevationM": 1984,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3174863",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "asahidake",
+      "name": "朝日岳",
+      "reading": "あさひだけ",
+      "aliases": [
+        "朝日岳 (山形県・新潟県)",
+        "朝日連峰"
+      ],
+      "jumpTargetName": "大朝日岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 38.2603,
+      "longitude": 139.922,
+      "prefectures": [
+        "山形県",
+        "新潟県"
+      ],
+      "elevationM": 1870,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3072106",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "zaosan",
+      "name": "蔵王山",
+      "reading": "ざおうさん",
+      "aliases": [
+        "蔵王連峰",
+        "ざおうれんぽう"
+      ],
+      "jumpTargetName": "熊野岳",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+        "Zaosan",
+        "Zao",
+        "Mount Zao",
+        "Kumanodake"
+      ],
+      "latitude": 38.141,
+      "longitude": 140.443,
+      "prefectures": [
+        "宮城県",
+        "山形県"
+      ],
+      "elevationM": 1841,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E8%94%B5%E7%8E%8B%E9%80%A3%E5%B3%B0",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "iidesan",
+      "name": "飯豊山",
+      "reading": "いいでさん",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "飯豊山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 37.85472222,
+      "longitude": 139.70722222,
+      "prefectures": [
+        "山形県",
+        "福島県",
+        "新潟県"
+      ],
+      "elevationM": 2128,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695789",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "azumayama",
+      "name": "吾妻山",
+      "reading": "あづまさん",
+      "aliases": [
+        "吾妻連峰"
+      ],
+      "jumpTargetName": "西吾妻山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 37.738056,
+      "longitude": 140.140556,
+      "prefectures": [
+        "山形県",
+        "福島県"
+      ],
+      "elevationM": 2035,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q2669374",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "adatarayama",
+      "name": "安達太良山",
+      "reading": "あだたらやま",
+      "aliases": [
+        "安達太良連峰"
+      ],
+      "jumpTargetName": "安達太良山",
+      "targetType": "summit",
+      "romanizedAliases": [
+        "Adatarayama",
+        "Mount Adatara"
+      ],
+      "latitude": 37.6333,
+      "longitude": 140.2833,
+      "prefectures": [
+        "福島県"
+      ],
+      "elevationM": 1709,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E5%AE%89%E9%81%94%E5%A4%AA%E8%89%AF%E5%B1%B1",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "bandaisan",
+      "name": "磐梯山",
+      "reading": "ばんだいさん",
+      "aliases": [
+        "会津富士",
+        "会津磐梯山"
+      ],
+      "jumpTargetName": "磐梯山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 37.600833333333,
+      "longitude": 140.07222222222,
+      "prefectures": [
+        "福島県"
+      ],
+      "elevationM": 1816,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q714605",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "aizukomagatake",
+      "name": "会津駒ヶ岳",
+      "reading": "あいづこまがだけ",
+      "aliases": [
+        "会津駒ケ岳",
+        "駒ヶ岳"
+      ],
+      "jumpTargetName": "会津駒ヶ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 37.046944444444,
+      "longitude": 139.35388888889,
+      "prefectures": [
+        "福島県"
+      ],
+      "elevationM": 2133,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3321652",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "nasudake",
+      "name": "那須岳",
+      "reading": "なすだけ",
+      "aliases": [
+        "那須五岳",
+        "那須連山",
+        "那須連峰"
+      ],
+      "jumpTargetName": "三本槍岳",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+        "Nasudake",
+        "Mount Nasu",
+        "Sanbonyaridake",
+        "Mount Sanbonyari"
+      ],
+      "latitude": 37.150139,
+      "longitude": 139.961389,
+      "prefectures": [
+        "福島県",
+        "栃木県"
+      ],
+      "elevationM": 1917,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9C%AC%E6%A7%8D%E5%B2%B3",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "uonumakomagatake",
+      "name": "魚沼駒ヶ岳",
+      "reading": "うおぬまこまがたけ",
+      "aliases": [
+        "駒ヶ岳"
+      ],
+      "jumpTargetName": "越後駒ヶ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 37.12361111,
+      "longitude": 139.07527778,
+      "prefectures": [
+        "新潟県"
+      ],
+      "elevationM": 2003,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q6920545",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "hiragatake",
+      "name": "平ヶ岳",
+      "reading": "ひらがたけ",
+      "aliases": [
+        "平ヶ岳 (群馬県・新潟県)"
+      ],
+      "jumpTargetName": "平ガ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 37.00194444,
+      "longitude": 139.17083333,
+      "prefectures": [
+        "新潟県",
+        "群馬県"
+      ],
+      "elevationM": 2141,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695438",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "makihatayama",
+      "name": "巻機山",
+      "reading": "まきはたやま",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "巻機山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.978611,
+      "longitude": 138.964167,
+      "prefectures": [
+        "新潟県",
+        "群馬県"
+      ],
+      "elevationM": 1967,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11479929",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "hiuchigatake",
+      "name": "燧岳",
+      "reading": "ひうちだけ",
+      "aliases": [
+        "燧ケ岳",
+        "燧ヶ岳"
+      ],
+      "jumpTargetName": "燧ヶ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+        "Hiuchidake",
+        "Hiuchigatake",
+        "Mount Hiuchi"
+      ],
+      "latitude": 36.955000000000005,
+      "longitude": 139.28527777777776,
+      "prefectures": [
+        "福島県"
+      ],
+      "elevationM": 2356,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E7%87%A7%E3%83%B6%E5%B2%B3",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "shibutusan",
+      "name": "至仏山",
+      "reading": "しぶつさん",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "至仏山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.903472,
+      "longitude": 139.17325,
+      "prefectures": [
+        "群馬県"
+      ],
+      "elevationM": 2228,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11613163",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "tanigawadake",
+      "name": "谷川岳",
+      "reading": "たにがわだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "オキの耳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.837222222222,
+      "longitude": 138.92972222222,
+      "prefectures": [
+        "新潟県",
+        "群馬県"
+      ],
+      "elevationM": 1977,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q1109030",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "amakazariyama",
+      "name": "雨飾山",
+      "reading": "あまかざりやま",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "雨飾山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.901944,
+      "longitude": 137.9625,
+      "prefectures": [
+        "新潟県",
+        "長野県"
+      ],
+      "elevationM": 1963,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11659787",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "naebayama",
+      "name": "苗場山",
+      "reading": "なえばさん",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "苗場山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.845833333333,
+      "longitude": 138.69027777778,
+      "prefectures": [
+        "新潟県",
+        "長野県"
+      ],
+      "elevationM": 2145,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q2345178",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "myokosan",
+      "name": "妙高山",
+      "reading": "みょうこうさん",
+      "aliases": [
+        "みょうこうさん"
+      ],
+      "jumpTargetName": "妙高山南峰",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.89138,
+      "longitude": 138.11339,
+      "prefectures": [
+        "新潟県"
+      ],
+      "elevationM": 2454,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q717458",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "hiuchiyama",
+      "name": "火打山",
+      "reading": "ひうちやま",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "火打山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.92277778,
+      "longitude": 138.06805556,
+      "prefectures": [
+        "新潟県"
+      ],
+      "elevationM": 2462,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695451",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "takatsumayama",
+      "name": "高妻山",
+      "reading": "たかつまやま",
+      "aliases": [
+        "戸隠富士"
+      ],
+      "jumpTargetName": "高妻山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.8,
+      "longitude": 138.051944,
+      "prefectures": [
+        "新潟県",
+        "長野県"
+      ],
+      "elevationM": 2353,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11669119",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "nantaisan",
+      "name": "男体山",
+      "reading": "なんたいさん",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "男体山",
+      "targetType": "summit",
+      "romanizedAliases": [
+        "Nantaisan",
+        "Mount Nantai"
+      ],
+      "latitude": 36.7619,
+      "longitude": 139.4939,
+      "prefectures": [
+        "栃木県"
+      ],
+      "elevationM": 2486,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E7%94%B7%E4%BD%93%E5%B1%B1",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "okushiranesan",
+      "name": "奥白根山",
+      "reading": "おくしらねさん",
+      "aliases": [
+        "日光白根山"
+      ],
+      "jumpTargetName": "白根山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.798333333333,
+      "longitude": 139.37416666667,
+      "prefectures": [
+        "栃木県",
+        "群馬県"
+      ],
+      "elevationM": 2578,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q2360542",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "sukaisan",
+      "name": "皇海山",
+      "reading": "すかいさん",
+      "aliases": [
+        "笄山"
+      ],
+      "jumpTargetName": "皇海山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.69,
+      "longitude": 139.33694444444,
+      "prefectures": [
+        "栃木県",
+        "群馬県"
+      ],
+      "elevationM": 2144,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695420",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "hotakayama",
+      "name": "武尊山",
+      "reading": "ほたかやま",
+      "aliases": [
+        "上州武尊山"
+      ],
+      "jumpTargetName": "武尊山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.805277777777775,
+      "longitude": 139.1325,
+      "prefectures": [
+        "群馬県"
+      ],
+      "elevationM": 2158,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11545926",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "akagiyama",
+      "name": "赤城山",
+      "reading": "あかぎやま",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "赤城山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.560833333333,
+      "longitude": 139.19361111111,
+      "prefectures": [
+        "群馬県"
+      ],
+      "elevationM": 1828,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q415251",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kusatsushirane",
+      "name": "草津白根山",
+      "reading": "くさつしらねさん",
+      "aliases": [
+        "白根山"
+      ],
+      "jumpTargetName": "本白根山",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+        "Kusatsu-Shiranesan",
+        "Mount Kusatsu-Shirane",
+        "Motoshiranesan",
+        "Mount Motoshirane"
+      ],
+      "latitude": 36.622939,
+      "longitude": 138.531667,
+      "prefectures": [
+        "群馬県"
+      ],
+      "elevationM": 2171,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%99%BD%E6%A0%B9%E5%B1%B1",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "azumayasan",
+      "name": "四阿山",
+      "reading": "あずまやさん",
+      "aliases": [
+        "吾嬬山"
+      ],
+      "jumpTargetName": "四阿山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.541666666667,
+      "longitude": 138.41305555556,
+      "prefectures": [
+        "群馬県",
+        "長野県"
+      ],
+      "elevationM": 2354,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695435",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "asamayama",
+      "name": "浅間山",
+      "reading": "あさまやま",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "浅間山",
+      "targetType": "summit",
+      "romanizedAliases": [
+        "Asamayama",
+        "Mount Asama"
+      ],
+      "latitude": 36.406388888888884,
+      "longitude": 138.52305555555557,
+      "prefectures": [
+        "群馬県",
+        "長野県"
+      ],
+      "elevationM": 2568,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E6%B5%85%E9%96%93%E5%B1%B1",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "tsukubasan",
+      "name": "筑波山",
+      "reading": "つくばさん",
+      "aliases": [
+        "ツクバヤマ",
+        "紫峰",
+        "つくば山",
+        "筑波嶺",
+        "つくばさん"
+      ],
+      "jumpTargetName": "筑波山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.22580555555555,
+      "longitude": 140.105,
+      "prefectures": [
+        "茨城県"
+      ],
+      "elevationM": 877,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q1754619",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "siroumadake",
+      "name": "白馬岳",
+      "reading": "しろうまだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "白馬岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.758611111111,
+      "longitude": 137.75861111111,
+      "prefectures": [
+        "長野県",
+        "富山県"
+      ],
+      "elevationM": 2932,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695423",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "goryudake",
+      "name": "五竜岳",
+      "reading": "ごりゅうだけ",
+      "aliases": [
+        "五龍岳"
+      ],
+      "jumpTargetName": "五竜岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.658333,
+      "longitude": 137.752778,
+      "prefectures": [
+        "長野県",
+        "富山県"
+      ],
+      "elevationM": 2814,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11372594",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kashimayarigatake",
+      "name": "鹿島槍岳",
+      "reading": "かしまやりだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "鹿島槍ヶ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.624444,
+      "longitude": 137.746944,
+      "prefectures": [
+        "長野県",
+        "富山県"
+      ],
+      "elevationM": 2889,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11677135",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "tsurugidake",
+      "name": "剱岳",
+      "reading": "つるぎだけ",
+      "aliases": [
+        "劔岳",
+        "劒嶽",
+        "剣岳"
+      ],
+      "jumpTargetName": "劒岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.62352,
+      "longitude": 137.61732,
+      "prefectures": [
+        "富山県"
+      ],
+      "elevationM": 2999,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q1109050",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "tateyama",
+      "name": "立山",
+      "reading": "たてやま",
+      "aliases": [
+        "富士ノ折立",
+        "たてやま"
+      ],
+      "jumpTargetName": "大汝山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.575833333333,
+      "longitude": 137.61972222222,
+      "prefectures": [
+        "富山県"
+      ],
+      "elevationM": 3015,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q2977103",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kurobegorodake_050",
+      "name": "薬師岳",
+      "reading": "やくしだけ",
+      "aliases": [
+        "薬師ヶ岳"
+      ],
+      "jumpTargetName": "薬師岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.46888889,
+      "longitude": 137.54472222,
+      "prefectures": [
+        "富山県"
+      ],
+      "elevationM": 2926,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695488",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kurobegorodake_051",
+      "name": "黒部五郎岳",
+      "reading": "くろべごろうだけ",
+      "aliases": [
+        "中ノ俣岳"
+      ],
+      "jumpTargetName": "黒部五郎岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.3925,
+      "longitude": 137.54,
+      "prefectures": [
+        "富山県",
+        "岐阜県"
+      ],
+      "elevationM": 2840,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q6921736",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kurodake-washibadake_052",
+      "name": "黒岳",
+      "reading": "くろだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "水晶岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.426389,
+      "longitude": 137.602778,
+      "prefectures": [
+        "富山県"
+      ],
+      "elevationM": 2986,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11129955",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kurodake-washibadake_053",
+      "name": "鷲羽岳",
+      "reading": "わしばだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "鷲羽岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.403056,
+      "longitude": 137.605278,
+      "prefectures": [
+        "長野県",
+        "富山県"
+      ],
+      "elevationM": 2924,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11676291",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "hotakadake",
+      "name": "槍ヶ岳",
+      "reading": "やりがたけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "槍ヶ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.341944444444,
+      "longitude": 137.6475,
+      "prefectures": [
+        "長野県",
+        "岐阜県"
+      ],
+      "elevationM": 3180,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q2592686",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "jyonendake_055",
+      "name": "穂高岳",
+      "reading": "ほたかだけ",
+      "aliases": [
+        "穂高連峰"
+      ],
+      "jumpTargetName": "奥穂高岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.28916667,
+      "longitude": 137.64805556,
+      "prefectures": [
+        "長野県",
+        "岐阜県"
+      ],
+      "elevationM": 3190,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q656026",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "jyonendake_056",
+      "name": "常念岳",
+      "reading": "じょうねんだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "常念岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.32555556,
+      "longitude": 137.7275,
+      "prefectures": [
+        "長野県"
+      ],
+      "elevationM": 2857,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695503",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kasagatake",
+      "name": "笠ヶ岳",
+      "reading": "かさがだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "笠ヶ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+        "Kasagatake",
+        "Mount Kasa",
+        "Mount Kasagatake"
+      ],
+      "latitude": 36.315555555555555,
+      "longitude": 137.55027777777778,
+      "prefectures": [
+        "岐阜県"
+      ],
+      "elevationM": 2897,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E7%AC%A0%E3%83%B6%E5%B2%B3",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "yakedake",
+      "name": "焼岳",
+      "reading": "やけだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "焼岳北峰",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.22887,
+      "longitude": 137.58824,
+      "prefectures": [
+        "長野県",
+        "岐阜県"
+      ],
+      "elevationM": 2455,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3276924",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "norikuradake",
+      "name": "乗鞍岳",
+      "reading": "のりくらだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "乗鞍岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.10638889,
+      "longitude": 137.55361111,
+      "prefectures": [
+        "長野県",
+        "岐阜県"
+      ],
+      "elevationM": 3026,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3133588",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "ontake",
+      "name": "御嶽山",
+      "reading": "おんたけさん",
+      "aliases": [
+        "木曽御岳",
+        "木曽御嶽山"
+      ],
+      "jumpTargetName": "御岳山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.892777777778,
+      "longitude": 137.48027777778,
+      "prefectures": [
+        "長野県",
+        "岐阜県"
+      ],
+      "elevationM": 3067,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q1754806",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "utsukushigahara",
+      "name": "美ヶ原",
+      "reading": "うつくしがはら",
+      "aliases": [
+        "美ヶ原高原",
+        "美しの塔"
+      ],
+      "jumpTargetName": "王ヶ頭",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.225797,
+      "longitude": 138.107442,
+      "prefectures": [
+        "長野県"
+      ],
+      "elevationM": 2034,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11608718",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kirigamine",
+      "name": "霧ヶ峰",
+      "reading": "きりがみね",
+      "aliases": [
+        "霧ケ峰",
+        "霧ヶ峰高原"
+      ],
+      "jumpTargetName": "車山",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+        "Kirigamine",
+        "Kurumayama"
+      ],
+      "latitude": 36.102777777777774,
+      "longitude": 138.19666666666666,
+      "prefectures": [
+        "長野県"
+      ],
+      "elevationM": 1925,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q6447381",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "tateshinayama",
+      "name": "蓼科山",
+      "reading": "たてしなやま",
+      "aliases": [
+        "諏訪富士"
+      ],
+      "jumpTargetName": "蓼科山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.103611111111,
+      "longitude": 138.295,
+      "prefectures": [
+        "長野県"
+      ],
+      "elevationM": 2530,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q717453",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "yatsugatake",
+      "name": "八ヶ岳",
+      "reading": "やつがたけ",
+      "aliases": [
+        "八ケ岳",
+        "南八ヶ岳",
+        "やつがたけ"
+      ],
+      "jumpTargetName": "赤岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.970833333333,
+      "longitude": 138.37,
+      "prefectures": [
+        "長野県",
+        "山梨県"
+      ],
+      "elevationM": 2899,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q905588",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "ryokamisan",
+      "name": "両神山",
+      "reading": "りょうかみさん",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "両神山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 36.023333,
+      "longitude": 138.841389,
+      "prefectures": [
+        "埼玉県"
+      ],
+      "elevationM": 1723,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11362665",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kumotoriyama",
+      "name": "雲取山",
+      "reading": "くもとりやま",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "雲取山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.855277777778,
+      "longitude": 138.94361111111,
+      "prefectures": [
+        "埼玉県",
+        "東京都",
+        "山梨県"
+      ],
+      "elevationM": 2017,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q1781878",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kobushidake",
+      "name": "甲武信岳",
+      "reading": "こぶしだけ",
+      "aliases": [
+        "甲武信ヶ岳",
+        "甲武信ケ岳",
+        "甲武信が岳"
+      ],
+      "jumpTargetName": "甲武信岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.908889,
+      "longitude": 138.728889,
+      "prefectures": [
+        "埼玉県",
+        "長野県",
+        "山梨県"
+      ],
+      "elevationM": 2475,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11577943",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kinpusan",
+      "name": "金峰山",
+      "reading": "きんぷさん",
+      "aliases": [
+        "金峰山 (山梨県・長野県)"
+      ],
+      "jumpTargetName": "金峰山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.87166666666667,
+      "longitude": 138.62527777777777,
+      "prefectures": [
+        "長野県",
+        "山梨県"
+      ],
+      "elevationM": 2599,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q6921689",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "mizugakiyama",
+      "name": "瑞牆山",
+      "reading": "みずがきやま",
+      "aliases": [
+        "みずがき山",
+        "みずかき山"
+      ],
+      "jumpTargetName": "瑞牆山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.89333333333333,
+      "longitude": 138.59194444444444,
+      "prefectures": [
+        "山梨県"
+      ],
+      "elevationM": 2230,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11573920",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "daibosatsudake",
+      "name": "大菩薩岳",
+      "reading": "だいぼさつだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "大菩薩嶺",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.748611,
+      "longitude": 138.845278,
+      "prefectures": [
+        "山梨県"
+      ],
+      "elevationM": 2057,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11438685",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "tanzawayama",
+      "name": "丹沢山",
+      "reading": "たんざわさん",
+      "aliases": [
+        "みやま山荘",
+        "丹澤山"
+      ],
+      "jumpTargetName": "丹沢山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.474166666667,
+      "longitude": 139.16277777778,
+      "prefectures": [
+        "神奈川県"
+      ],
+      "elevationM": 1673,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3694522",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "fujisan",
+      "name": "富士山",
+      "reading": "ふじさん",
+      "aliases": [
+        "富士山 (代表的なトピック)",
+        "富岳",
+        "芙蓉峰",
+        "霊峰富士",
+        "富嶽"
+      ],
+      "jumpTargetName": "富士山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.36055555555556,
+      "longitude": 138.7275,
+      "prefectures": [
+        "山梨県",
+        "静岡県"
+      ],
+      "elevationM": 3776,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q39231",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "amagisan",
+      "name": "天城山",
+      "reading": "あまぎさん",
+      "aliases": [
+        "天城連山",
+        "天城山脈",
+        "天城火山"
+      ],
+      "jumpTargetName": "万三郎岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 34.862777777778,
+      "longitude": 139.00166666667,
+      "prefectures": [
+        "静岡県"
+      ],
+      "elevationM": 1405,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3276672",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kisokomagatake",
+      "name": "木曽駒ヶ岳",
+      "reading": "きそこまがたけ",
+      "aliases": [
+        "木曽駒ケ岳",
+        "木曾駒ヶ岳",
+        "西駒",
+        "木曾駒ケ岳",
+        "駒ヶ岳",
+        "駒ケ岳"
+      ],
+      "jumpTargetName": "木曽駒ヶ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.789444444444,
+      "longitude": 137.80444444444,
+      "prefectures": [
+        "長野県"
+      ],
+      "elevationM": 2956,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695791",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "utsugidake",
+      "name": "空木岳",
+      "reading": "うつぎだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "空木岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.71888889,
+      "longitude": 137.81694444,
+      "prefectures": [
+        "長野県"
+      ],
+      "elevationM": 2864,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695515",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "enasan",
+      "name": "恵那山",
+      "reading": "えなさん",
+      "aliases": [
+        "恵那山，えなさん"
+      ],
+      "jumpTargetName": "恵那山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.443055555556,
+      "longitude": 137.59694444444,
+      "prefectures": [
+        "長野県",
+        "岐阜県"
+      ],
+      "elevationM": 2191,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q1339920",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kaikomagatake",
+      "name": "甲斐駒ヶ岳",
+      "reading": "かいこまがたけ",
+      "aliases": [
+        "甲斐駒ケ岳",
+        "甲斐駒",
+        "東駒",
+        "甲斐駒が岳"
+      ],
+      "jumpTargetName": "駒ヶ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.757777777778,
+      "longitude": 138.23666666667,
+      "prefectures": [
+        "山梨県",
+        "長野県"
+      ],
+      "elevationM": 2967,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695507",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "senjodake",
+      "name": "仙丈岳",
+      "reading": "せんじょうだけ",
+      "aliases": [
+        "仙丈ケ岳"
+      ],
+      "jumpTargetName": "仙丈ヶ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.72,
+      "longitude": 138.18333333333,
+      "prefectures": [
+        "山梨県",
+        "長野県"
+      ],
+      "elevationM": 3033,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695490",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "hououzan",
+      "name": "鳳凰山",
+      "reading": "ほうおうざん",
+      "aliases": [
+        "鳳凰三山"
+      ],
+      "jumpTargetName": "観音岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.70166667,
+      "longitude": 138.30444444,
+      "prefectures": [
+        "山梨県"
+      ],
+      "elevationM": 2840,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695432",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kitadake_ainodake_080",
+      "name": "北岳",
+      "reading": "きただけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "北岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.67432,
+      "longitude": 138.23874,
+      "prefectures": [
+        "山梨県"
+      ],
+      "elevationM": 3193,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q961873",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kitadake_ainodake_081",
+      "name": "間ノ岳",
+      "reading": "あいのだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "間ノ岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.646111111111,
+      "longitude": 138.22833333333,
+      "prefectures": [
+        "山梨県",
+        "静岡県"
+      ],
+      "elevationM": 3190,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695492",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "shiomidake",
+      "name": "塩見岳",
+      "reading": "しおみだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "塩見岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.57388889,
+      "longitude": 138.18305556,
+      "prefectures": [
+        "長野県",
+        "静岡県"
+      ],
+      "elevationM": 3052,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695444",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "warusawadake_akaishidake_083",
+      "name": "悪沢岳",
+      "reading": "わるさわだけ",
+      "aliases": [
+        "荒川岳",
+        "荒川三山"
+      ],
+      "jumpTargetName": "悪沢岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.50055555555556,
+      "longitude": 138.1822222222222,
+      "prefectures": [
+        "長野県",
+        "静岡県"
+      ],
+      "elevationM": 3141,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q105001667",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "warusawadake_akaishidake_084",
+      "name": "赤石岳",
+      "reading": "あかいしだけ",
+      "aliases": [
+        "小赤石岳"
+      ],
+      "jumpTargetName": "赤石岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.461111111111,
+      "longitude": 138.15722222222,
+      "prefectures": [
+        "長野県",
+        "静岡県"
+      ],
+      "elevationM": 3120,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695513",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "hijiridake",
+      "name": "聖岳",
+      "reading": "ひじりだけ",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "前聖岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.42277778,
+      "longitude": 138.13972222,
+      "prefectures": [
+        "長野県",
+        "静岡県"
+      ],
+      "elevationM": 3013,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3595684",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "tekaridake",
+      "name": "光岳",
+      "reading": "てかりだけ",
+      "aliases": [
+        "光岳，てかりだけ"
+      ],
+      "jumpTargetName": "光岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.33805556,
+      "longitude": 138.08388889,
+      "prefectures": [
+        "長野県",
+        "静岡県"
+      ],
+      "elevationM": 2591,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695441",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "hakusan",
+      "name": "白山",
+      "reading": "はくさん",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "御前峰",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+        "Hakusan",
+        "Mount Haku",
+        "Gozengamine"
+      ],
+      "latitude": 36.155,
+      "longitude": 136.7713888888889,
+      "prefectures": [
+        "岐阜県",
+        "石川県"
+      ],
+      "elevationM": 2702,
+      "coordinateStatus": "verified",
+      "sourceName": "Japanese Wikipedia",
+      "sourceURL": "https://ja.wikipedia.org/wiki/%E7%99%BD%E5%B1%B1",
+      "sourceLicenseNote": "CC BY-SA 4.0"
+    },
+    {
+      "id": "arashimadake",
+      "name": "荒島岳",
+      "reading": "あらしまだけ",
+      "aliases": [
+        "大野富士"
+      ],
+      "jumpTargetName": "荒島岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.934167,
+      "longitude": 136.601389,
+      "prefectures": [
+        "福井県"
+      ],
+      "elevationM": 1523,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11618492",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "ibukiyama",
+      "name": "伊吹山",
+      "reading": "いぶきやま",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "伊吹山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.417777777778,
+      "longitude": 136.40611111111,
+      "prefectures": [
+        "岐阜県",
+        "滋賀県"
+      ],
+      "elevationM": 1377,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q2624360",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "odaigaharayama",
+      "name": "大台ヶ原山",
+      "reading": "おおだいがはらやま",
+      "aliases": [
+        "大台ケ原",
+        "大台ケ原山"
+      ],
+      "jumpTargetName": "日出ヶ岳",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+        "Odaigaharayama",
+        "Odaigahara",
+        "Hidegatake",
+        "Mount Hide"
+      ],
+      "latitude": 34.185,
+      "longitude": 136.10888888889,
+      "prefectures": [
+        "三重県",
+        "奈良県"
+      ],
+      "elevationM": 1695,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q31703313",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "ominesan",
+      "name": "大峰山",
+      "reading": "おおみねさん",
+      "aliases": [
+        "大峯山"
+      ],
+      "jumpTargetName": "八経ヶ岳",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+        "Omine",
+        "Ominesan",
+        "Hakkyogatake",
+        "Mount Hakkyo"
+      ],
+      "latitude": 34.173611,
+      "longitude": 135.9075,
+      "prefectures": [
+        "奈良県"
+      ],
+      "elevationM": 1915,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11391726",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "daisen",
+      "name": "大山",
+      "reading": "だいせん",
+      "aliases": [
+        "大山 (鳥取県)",
+        "伯耆大山",
+        "伯耆富士",
+        "出雲富士"
+      ],
+      "jumpTargetName": "弥山",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 35.3707634,
+      "longitude": 133.5391439,
+      "prefectures": [
+        "鳥取県"
+      ],
+      "elevationM": 1709,
+      "coordinateStatus": "verified",
+      "sourceName": "OpenStreetMap Misen peak",
+      "sourceURL": "https://www.openstreetmap.org/node/728158236",
+      "sourceLicenseNote": "ODbL"
+    },
+    {
+      "id": "tsurugisan",
+      "name": "剣山",
+      "reading": "つるぎさん",
+      "aliases": [
+        "太郎笈"
+      ],
+      "jumpTargetName": "剣山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 33.85361111,
+      "longitude": 134.09416667,
+      "prefectures": [
+        "徳島県"
+      ],
+      "elevationM": 1955,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695995",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "ishizuchiyama",
+      "name": "石鎚山",
+      "reading": "いしづちさん",
+      "aliases": [
+        "石鉄山",
+        "石鈇山",
+        "石土山",
+        "石槌山"
+      ],
+      "jumpTargetName": "石鎚山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 33.766666666667,
+      "longitude": 133.11666666667,
+      "prefectures": [
+        "愛媛県"
+      ],
+      "elevationM": 1982,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q2744214",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kujyusan",
+      "name": "九重山",
+      "reading": "くじゅうさん",
+      "aliases": [
+        "九重連山",
+        "久住連山",
+        "くじゅう連山"
+      ],
+      "jumpTargetName": "中岳",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+        "Kujusan",
+        "Kuju Mountains",
+        "Nakadake",
+        "Mount Naka"
+      ],
+      "latitude": 33.08594444,
+      "longitude": 131.24897222,
+      "prefectures": [
+        "大分県"
+      ],
+      "elevationM": 1791,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q11364336",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "sobosan",
+      "name": "祖母山",
+      "reading": "そぼさん",
+      "aliases": [
+
+      ],
+      "jumpTargetName": "祖母山",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 32.828055555556,
+      "longitude": 131.34694444444,
+      "prefectures": [
+        "大分県",
+        "宮崎県"
+      ],
+      "elevationM": 1756,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3695986",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "asosan",
+      "name": "阿蘇山",
+      "reading": "あそさん",
+      "aliases": [
+        "阿蘇山大噴火",
+        "阿蘇五岳",
+        "米塚"
+      ],
+      "jumpTargetName": "高岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 32.885,
+      "longitude": 131.10416666667,
+      "prefectures": [
+        "熊本県"
+      ],
+      "elevationM": 1592,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q733710",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kirishimayama",
+      "name": "霧島山",
+      "reading": "きりしまやま",
+      "aliases": [
+        "霧島連峰",
+        "霧島火山群",
+        "霧島山地",
+        "霧島連山",
+        "霧島火山"
+      ],
+      "jumpTargetName": "韓国岳",
+      "targetType": "representativeSummit",
+      "romanizedAliases": [
+        "Kirishimayama",
+        "Kirishima",
+        "Karakunidake",
+        "Mount Karakuni"
+      ],
+      "latitude": 31.93416667,
+      "longitude": 130.86166667,
+      "prefectures": [
+        "宮崎県",
+        "鹿児島県"
+      ],
+      "elevationM": 1700,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q3321904",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "kaimondake",
+      "name": "開聞岳",
+      "reading": "かいもんだけ",
+      "aliases": [
+        "薩摩富士"
+      ],
+      "jumpTargetName": "開聞岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+
+      ],
+      "latitude": 31.18,
+      "longitude": 130.52833333333,
+      "prefectures": [
+        "鹿児島県"
+      ],
+      "elevationM": 924,
+      "coordinateStatus": "verified",
+      "sourceName": "Wikidata",
+      "sourceURL": "https://www.wikidata.org/wiki/Q713847",
+      "sourceLicenseNote": "CC0"
+    },
+    {
+      "id": "miyanouradake",
+      "name": "宮ノ浦岳",
+      "reading": "みやのうらだけ",
+      "aliases": [
+        "宮之浦岳"
+      ],
+      "jumpTargetName": "宮之浦岳",
+      "targetType": "summit",
+      "romanizedAliases": [
+        "Miyanouradake",
+        "Mount Miyanoura"
+      ],
+      "latitude": 30.3361156,
+      "longitude": 130.5042064,
+      "prefectures": [
+        "鹿児島県"
+      ],
+      "elevationM": 1936,
+      "coordinateStatus": "verified",
+      "sourceName": "OpenStreetMap",
+      "sourceURL": "https://www.openstreetmap.org/node/987483084",
+      "sourceLicenseNote": "ODbL"
+    }
+  ]
+}

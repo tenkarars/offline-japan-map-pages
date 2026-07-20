@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "id": "washibadake-mitsumata-down",
+  "segments": [
+    {
+      "kind": "route",
+      "name": "三俣山荘〜鷲羽岳 下り",
+      "points": [
+        {
+          "latitude": 36.4029926,
+          "longitude": 137.6052253
+        },
+        {
+          "latitude": 36.4028829,
+          "longitude": 137.6052377
+        },
+        {
+          "latitude": 36.4026411,
+          "longitude": 137.6051599
+        },
+        {
+          "latitude": 36.4024015,
+          "longitude": 137.6050191
+        },
+        {
+          "latitude": 36.402232,
+          "longitude": 137.6048166
+        },
+        {
+          "latitude": 36.4021694,
+          "longitude": 137.6046154
+        },
+        {
+          "latitude": 36.4018337,
+          "longitude": 137.6042841
+        },
+        {
+          "latitude": 36.4017625,
+          "longitude": 137.6041406
+        },
+        {
+          "latitude": 36.4017301,
+          "longitude": 137.6037598
+        },
+        {
+          "latitude": 36.4016297,
+          "longitude": 137.6034674
+        },
+        {
+          "latitude": 36.4012962,
+          "longitude": 137.6031536
+        },
+        {
+          "latitude": 36.4012152,
+          "longitude": 137.6030543
+        },
+        {
+          "latitude": 36.4009486,
+          "longitude": 137.6025903
+        },
+        {
+          "latitude": 36.4007942,
+          "longitude": 137.6022443
+        },
+        {
+          "latitude": 36.4004833,
+          "longitude": 137.601783
+        },
+        {
+          "latitude": 36.4003279,
+          "longitude": 137.6016569
+        },
+        {
+          "latitude": 36.4002383,
+          "longitude": 137.6014236
+        },
+        {
+          "latitude": 36.4000008,
+          "longitude": 137.6010709
+        },
+        {
+          "latitude": 36.3995906,
+          "longitude": 137.6006082
+        },
+        {
+          "latitude": 36.399351,
+          "longitude": 137.6004754
+        },
+        {
+          "latitude": 36.3992323,
+          "longitude": 137.6003587
+        },
+        {
+          "latitude": 36.3991783,
+          "longitude": 137.6002192
+        },
+        {
+          "latitude": 36.3991621,
+          "longitude": 137.600179
+        },
+        {
+          "latitude": 36.3990455,
+          "longitude": 137.5999993
+        },
+        {
+          "latitude": 36.399012,
+          "longitude": 137.5999457
+        },
+        {
+          "latitude": 36.398848,
+          "longitude": 137.5998223
+        },
+        {
+          "latitude": 36.3986213,
+          "longitude": 137.5996037
+        },
+        {
+          "latitude": 36.3983892,
+          "longitude": 137.5995031
+        },
+        {
+          "latitude": 36.398169,
+          "longitude": 137.5994173
+        },
+        {
+          "latitude": 36.3980114,
+          "longitude": 137.5991987
+        },
+        {
+          "latitude": 36.3979045,
+          "longitude": 137.5990753
+        },
+        {
+          "latitude": 36.397734,
+          "longitude": 137.599027
+        },
+        {
+          "latitude": 36.3975871,
+          "longitude": 137.5990002
+        },
+        {
+          "latitude": 36.3973885,
+          "longitude": 137.5989197
+        },
+        {
+          "latitude": 36.3972719,
+          "longitude": 137.5987427
+        },
+        {
+          "latitude": 36.3970485,
+          "longitude": 137.5984858
+        },
+        {
+          "latitude": 36.3969978,
+          "longitude": 137.5984275
+        },
+        {
+          "latitude": 36.3968078,
+          "longitude": 137.5982666
+        },
+        {
+          "latitude": 36.3966858,
+          "longitude": 137.598158
+        },
+        {
+          "latitude": 36.3964774,
+          "longitude": 137.5980252
+        },
+        {
+          "latitude": 36.3962637,
+          "longitude": 137.5979139
+        },
+        {
+          "latitude": 36.3959873,
+          "longitude": 137.5978093
+        },
+        {
+          "latitude": 36.3957002,
+          "longitude": 137.5977892
+        },
+        {
+          "latitude": 36.3956279,
+          "longitude": 137.597761
+        },
+        {
+          "latitude": 36.3955599,
+          "longitude": 137.5977114
+        },
+        {
+          "latitude": 36.3954357,
+          "longitude": 137.5975585
+        },
+        {
+          "latitude": 36.3952619,
+          "longitude": 137.5974123
+        },
+        {
+          "latitude": 36.3952274,
+          "longitude": 137.5973707
+        },
+        {
+          "latitude": 36.3951777,
+          "longitude": 137.5972313
+        },
+        {
+          "latitude": 36.395155,
+          "longitude": 137.5970502
+        },
+        {
+          "latitude": 36.3951151,
+          "longitude": 137.5969322
+        }
+      ]
+    }
+  ]
+}

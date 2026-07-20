@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "id": "okuhotakadake-hotakadake-sanso-down",
+  "segments": [
+    {
+      "kind": "route",
+      "name": "穂高岳山荘〜奥穂高岳 下り",
+      "points": [
+        {
+          "latitude": 36.2891776,
+          "longitude": 137.6479158
+        },
+        {
+          "latitude": 36.2891577,
+          "longitude": 137.6477051
+        },
+        {
+          "latitude": 36.2891567,
+          "longitude": 137.6476407
+        },
+        {
+          "latitude": 36.2893934,
+          "longitude": 137.6475441
+        },
+        {
+          "latitude": 36.2894777,
+          "longitude": 137.6475026
+        },
+        {
+          "latitude": 36.2896009,
+          "longitude": 137.6474811
+        },
+        {
+          "latitude": 36.2897988,
+          "longitude": 137.6474811
+        },
+        {
+          "latitude": 36.2899166,
+          "longitude": 137.6474945
+        },
+        {
+          "latitude": 36.2900009,
+          "longitude": 137.6475294
+        },
+        {
+          "latitude": 36.2900971,
+          "longitude": 137.6476058
+        },
+        {
+          "latitude": 36.2901695,
+          "longitude": 137.6477051
+        },
+        {
+          "latitude": 36.2901987,
+          "longitude": 137.6477453
+        },
+        {
+          "latitude": 36.2902776,
+          "longitude": 137.6478285
+        },
+        {
+          "latitude": 36.2903674,
+          "longitude": 137.6478982
+        },
+        {
+          "latitude": 36.2906711,
+          "longitude": 137.6479612
+        },
+        {
+          "latitude": 36.2909586,
+          "longitude": 137.6479746
+        },
+        {
+          "latitude": 36.291645,
+          "longitude": 137.6479746
+        },
+        {
+          "latitude": 36.2916677,
+          "longitude": 137.6479787
+        },
+        {
+          "latitude": 36.2917294,
+          "longitude": 137.6479881
+        },
+        {
+          "latitude": 36.2920331,
+          "longitude": 137.6481141
+        },
+        {
+          "latitude": 36.292112,
+          "longitude": 137.6481141
+        },
+        {
+          "latitude": 36.2923823,
+          "longitude": 137.6479197
+        },
+        {
+          "latitude": 36.2924785,
+          "longitude": 137.6478781
+        },
+        {
+          "latitude": 36.2926719,
+          "longitude": 137.647866
+        },
+        {
+          "latitude": 36.2928503,
+          "longitude": 137.6477239
+        },
+        {
+          "latitude": 36.2929087,
+          "longitude": 137.6477051
+        },
+        {
+          "latitude": 36.2929227,
+          "longitude": 137.6476903
+        },
+        {
+          "latitude": 36.2930038,
+          "longitude": 137.6477051
+        },
+        {
+          "latitude": 36.2930697,
+          "longitude": 137.6477171
+        },
+        {
+          "latitude": 36.2931713,
+          "longitude": 137.6477735
+        },
+        {
+          "latitude": 36.2933454,
+          "longitude": 137.6478218
+        },
+        {
+          "latitude": 36.29338,
+          "longitude": 137.6478218
+        }
+      ]
+    }
+  ]
+}
